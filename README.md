@@ -1,3 +1,5 @@
 # Java
-Daily record about Java
+Daily record about Java/
+
+
 There are exercises.
